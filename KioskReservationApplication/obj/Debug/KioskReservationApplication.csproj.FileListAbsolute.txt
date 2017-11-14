@@ -7,3 +7,6 @@ c:\users\george albert\documents\visual studio 2015\Projects\KioskReservationApp
 c:\users\george albert\documents\visual studio 2015\Projects\KioskReservationApplication\KioskReservationApplication\obj\Debug\KioskReservationApplication.csproj.GenerateResource.Cache
 c:\users\george albert\documents\visual studio 2015\Projects\KioskReservationApplication\KioskReservationApplication\obj\Debug\KioskReservationApplication.exe
 c:\users\george albert\documents\visual studio 2015\Projects\KioskReservationApplication\KioskReservationApplication\obj\Debug\KioskReservationApplication.pdb
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\bin\Debug\KioskReservationApplication.exe.config
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.exe
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.pdb
