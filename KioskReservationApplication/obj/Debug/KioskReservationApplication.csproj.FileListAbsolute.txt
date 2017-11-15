@@ -10,3 +10,9 @@ c:\users\george albert\documents\visual studio 2015\Projects\KioskReservationApp
 C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\bin\Debug\KioskReservationApplication.exe.config
 C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.exe
 C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.pdb
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\bin\Debug\KioskReservationApplication.exe
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\bin\Debug\KioskReservationApplication.pdb
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.csprojResolveAssemblyReference.cache
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.Form1.resources
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.Properties.Resources.resources
+C:\Users\George Albert\Source\Repos\Practice-2.0\KioskReservationApplication\obj\Debug\KioskReservationApplication.csproj.GenerateResource.Cache
